@@ -18,3 +18,38 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.country-list {
+  list-style: none;
+}
+.country-info {
+  list-style: none;
+  margin-left: 40px;
+}
+.country-info p {
+  font-weight: 450;
+  margin: 0;
+  margin-top: 5px;
+}
+.country-info span{
+  font-weight: 700;
+  padding-right: 5px;
+
+}
+
+.country__header{
+  display: flex;
+  flex-direction: row;
+  
+}
+.country__header-svg{
+  width: 50px;
+  height: 30px;
+  margin-bottom: 15px;
+}
+.country__header-name{
+  margin: 0;
+  padding-left: 15px;
+}
+.hidden {
+  display: none;
+}
