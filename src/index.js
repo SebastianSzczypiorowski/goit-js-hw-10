@@ -63,3 +63,7 @@ function clearCountries() {
   countryList.innerHTML = '';
   countryInfo.innerHTML = '';
 }
+
+
+
+// 1
